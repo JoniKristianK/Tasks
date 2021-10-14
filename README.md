@@ -1,7 +1,7 @@
 # Tasks
 *in progress*
 
-Tasks with Angular & TypeScript
+Tasks with Angular & TypeScript (Add, Delete and set reminder to the task. Toggle reminder (doubleClick))
 
 * Clone project
 * cd to the project folder (package.json)
