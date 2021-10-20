@@ -16,13 +16,7 @@
       "id": 3,
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
-      "reminder": false
-    },
-    {
-      "text": "buu",
-      "day": "Tiistai 3 2001",
-      "reminder": false,
-      "id": 4
+      "reminder": true
     }
   ]
 }
