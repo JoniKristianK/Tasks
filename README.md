@@ -1,5 +1,4 @@
 # Tasks
-*in progress*
 
 Tasks with Angular & TypeScript (Add, Delete and set reminder to the task. Toggle reminder (doubleClick))
 
